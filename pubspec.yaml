@@ -50,6 +50,12 @@ flutter:
   #  - images/a_dot_ham.jpeg
   assets:
     - assets/map0.jpg
+    - assets/womanpin.png
+    - assets/womanpin1.png
+    - assets/pin1.png
+    - assets/pin2.png
+    - assets/pin3.png
+    - assets/pin4.png
 
   # An image asset can refer to one or more resolution-specific "variants", see
   # https://flutter.dev/assets-and-images/#resolution-aware.
